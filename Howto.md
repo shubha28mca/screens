@@ -14,12 +14,16 @@ Before start run the below command to check if the application is already starte
 >check.bat
 if there any process already started you can stop it using the stop command
 if the process is not started then we can use below command to start the process
+>screenshot_loop.exe
 
 Stop
 -------
 run the below batch script to Stop the application
 >stop.bat
 
+check
+-------
+>check.bat
 
 
 Configuration
