@@ -4,7 +4,7 @@ There are 2 part of this Software
 Resolution for the Only Laptop
 
 To Take the original Resolution of the main scrreen
-{ "width": 2496, "height": 0 }
+{ "width": 2496, "height": 0 } // if any of the value is 0 then it will take the original resolution of the main screen.
 
 Change the config file with below details
 { "width": 2496, "height": 1664 }
