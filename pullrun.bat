@@ -6,6 +6,6 @@ echo Running command at %time%
 git pull
 
 REM Wait for 10 seconds
-timeout /t 10 >nul
+timeout /t 2 >nul
 
 goto loop
