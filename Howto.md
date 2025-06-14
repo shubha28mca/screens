@@ -34,6 +34,8 @@ Change the config file with below details
 Resolution for the Only Laptop ( which is not working in the current laptop)
 { "width": 2496, "height": 1664 }
 
+{ "width": 3240, "height": 2160 }
+
 
 Part -2 (Server)
 In the other computer do a git clone
