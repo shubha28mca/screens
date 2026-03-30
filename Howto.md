@@ -43,3 +43,27 @@ and thentun the below batch script
 >pullrun.bat
 open the images under the screens folder and check jst click right.
 
+
+
+
+Trouble shooting
+Method 1: Add collaborator (personal repo)
+Go to your repo.
+Click Settings → Collaborators and teams.
+Click Add people.
+Enter username/email.
+Select role:
+Write → can push changes ✅
+Maintain/Admin → higher permissions
+Send invite → user must accept.
+
+
+On GitHub
+Open your repository.
+Go to Settings (top menu).
+Scroll down to the Danger Zone section.
+Click “Change repository visibility”.
+Select Make public.
+Confirm by typing the repo name (GitHub will prompt).
+Click I understand, make this repository public.
+
